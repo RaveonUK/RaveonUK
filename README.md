@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Gabriel
-- 🌱 I’m currently studying Cyber Security at The University of Warwick
-- 📫 You can reach me at g@sdi.tc or on Discord at Raveon#6016
+
